@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @othmaneimmortal
-- 👀 I’m interested in everything
 - 🌱 I’m currently learning cyber-security/networking
 - ⚡ Fun fact: beginner
 
